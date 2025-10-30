@@ -1,0 +1,4 @@
+(h1 "Diving Deep with Jisp")
+(p "Hey there! Over the past few years, I've been rolling up my sleeves and getting my hands dirty with Jisp. If you haven't heard of it, well, you're in for a treat. Created by the one and only Nelo Mitranim, Jisp is like the cool hybrid child of Lisp and JavaScript. Think of it as combining your favorite pizza toppings; you get the best of both worlds!")
+(p "So, why is Jisp awesome? It's a Lisp-to-JS compiler that's all about embracing JavaScript. It's like speaking a foreign language but with your hometown accent. This means you can easily pull in and play with anything originally written in JavaScript.")
+(p "This space is all about the cool tricks and \"gems\" I've found (or made up) using Jisp. Plus, there might be a few chuckles along the way. Because, hey, coding should be fun, right?")
