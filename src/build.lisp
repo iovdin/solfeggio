@@ -15,7 +15,7 @@
                       "e.g." (fn (Array "do"))))
 
 (= defaultPart "public/index.js"
-   filename "src/index.clj"
+   filename "src/index.lisp"
    dstDir "./"
    parts (:)
    parts[defaultPart] (list))
